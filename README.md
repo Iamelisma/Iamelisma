@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... MUSIC, GAMES, PEOPLE
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... GAMING INDUSTRY
-- 📫 How to reach me ... TWITTER @ismaelsanes
+- 📫 How to reach me ... discord #ismita
 
 <!---
 Iamelisma/Iamelisma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
